@@ -1,0 +1,63 @@
+nav#menu ul li {
+display:inline;
+text-decoration:none;
+margin: 1.0em 1.0em 1.0em 1.0em;
+list-style:none;
+
+}
+
+nav#menu li a:link {
+text-decoration:none;
+list-style:none;
+color:yellow;
+background-color:black;
+font-size:35px;
+border-radius:50px;
+padding-left:0.5cm;
+padding-right:0.5cm;
+}
+nav#menu li a:visited{
+background-color: yellow;
+color:black;
+}
+nav#menu li a:hover{
+background-color:black;
+color:yellow;
+}
+nav#menu li a:active{
+background-color:grey;
+color:white;
+}
+
+#home{
+width:2000px;
+height:1000px;
+}
+#fotos{
+display:inline-block;
+}
+#fotos img{
+margin-right:25px;
+margin-left:25px;
+margin-top:25px;
+}
+
+#mapa{
+text-align:center;
+}
+
+#rodape{
+background-color:yellow;
+display:inline-block;
+}
+#rodape img{
+margin-left:25px;
+margin-right:105px;
+width:200px;
+}
+.img{
+ width:200px;
+display:inline-block;
+margin-right:130px;
+font-size:20pt;
+}
